@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **General Full Stack development**
 
-- :sparkles: Pronouns: **she/her**
+- :sparkles: Pronouns **she/her**
 
 - ⚡ Fun fact **DnD and Marvel enthusiast**
 
