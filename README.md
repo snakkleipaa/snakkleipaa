@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henna</h1>
-<h3 align="center">A Hopeful future talent in Full Stack development</h3>
+<h3 align="center">A hopeful future talent in Full Stack development</h3>
 
 - 🌱 I’m currently learning **General Full Stack development**
 
